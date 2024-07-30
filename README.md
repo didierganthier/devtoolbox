@@ -1,12 +1,12 @@
 # DevToolBox 🛠️
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/DevToolBox?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/DevToolBox?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/DevToolBox?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/DevToolBox)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/DevToolBox)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/DevToolBox)
-![License](https://img.shields.io/github/license/yourusername/DevToolBox)
+![GitHub stars](https://img.shields.io/github/stars/didierganthier/devtoolbox?style=social)
+![GitHub forks](https://img.shields.io/github/forks/didierganthier/devtoolbox?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/didierganthier/devtoolbox?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/didierganthier/devtoolbox)
+![GitHub issues](https://img.shields.io/github/issues/didierganthier/devtoolbox)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/didierganthier/devtoolbox)
+![License](https://img.shields.io/github/license/didierganthier/devtoolbox)
 
 Bienvenue sur **DevToolBox**, votre boîte à outils ultime pour le développement ! 🚀 Que vous soyez un développeur front-end chevronné, un as du back-end, ou un passionné de design, cette collection soigneusement organisée d'outils et de ressources essentiels vous aidera à optimiser votre flux de travail et à booster votre productivité.
 
