@@ -1,5 +1,5 @@
 name: Issue Template
-about: Create an issue template for this repository
+description: Create an issue template for this repository
 
 title: '[Insert concise title of the issue]'
 
@@ -9,7 +9,7 @@ labels: |
   - documentation improvement
   - other
 
-assignees: ''
+assignees: string
 
 body:
   - type: markdown
