@@ -13,7 +13,8 @@
 
 Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether you're a seasoned front-end developer, a back-end guru, or a design enthusiast, this carefully curated collection of essential tools and resources will help you optimize your workflow and boost your productivity.
 
-[![Talk to repo](https://img.shields.io/badge/Talk_to_repo-%E2%9C%94%20Open%20Chat-brightgreen?style=for-the-badge&logo=HuggingFace&logoColor=white)](https://hf.co/chat/assistant/66a8811bb9ef6d5e5b2a78a0)
+[![Talk to repo](https://img.shields.io/badge/Talk_to_repo-%E2%9C%94%20Open%20Chat-%23007bff?style=for-the-badge&logo=HuggingFace&logoColor=white)](https://hf.co/chat/assistant/66a8811bb9ef6d5e5b2a78a0)
+
 
 ## 📚 Table of Contents
 
