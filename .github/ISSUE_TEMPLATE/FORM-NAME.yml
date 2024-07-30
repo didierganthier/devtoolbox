@@ -2,53 +2,53 @@ name: Issue Template
 description: Create an issue template for this repository
 
 body:
-  type: markdown
-  attributes:
-    value: |
-      ## **Describe the Issue**
+  - type: markdown
+    attributes:
+      value: |
+        ## **Describe the Issue**
 
-      Please provide a clear and concise description of the problem.
+        Please provide a clear and concise description of the problem.
 
-      * **Tool Category**: (Select one: Front-end Development, Back-end Development, Version Control, No-Code Tools, AI-Powered Tools, Design Assets, etc.)
-      * **Tool Name**: (Insert name of the tool)
-      * **Issue Type**: (Select one: Bug Report, Feature Request, Documentation Improvement, Other)
-      * **Description**: Please provide a detailed description of the issue, including any relevant context, error messages, or screenshots.
+        * **Tool Category**: (Select one: Front-end Development, Back-end Development, Version Control, No-Code Tools, AI-Powered Tools, Design Assets, etc.)
+        * **Tool Name**: (Insert name of the tool)
+        * **Issue Type**: (Select one: Bug Report, Feature Request, Documentation Improvement, Other)
+        * **Description**: Please provide a detailed description of the issue, including any relevant context, error messages, or screenshots.
 
-  type: markdown
-  attributes:
-    value: |
-      ## **Steps to Reproduce** (if applicable)
-      Please describe the steps necessary to reproduce the issue.
+  - type: markdown
+    attributes:
+      value: |
+        ## **Steps to Reproduce** (if applicable)
+        Please describe the steps necessary to reproduce the issue.
 
-      1. [Insert step 1]
-      2. [Insert step 2]
-      3. [Insert step 3]
+        1. [Insert step 1]
+        2. [Insert step 2]
+        3. [Insert step 3]
 
-  type: markdown
-  attributes:
-    value: |
-      ## **Expected Behavior** (if applicable)
-      Describe what you expected to happen.
+  - type: markdown
+    attributes:
+      value: |
+        ## **Expected Behavior** (if applicable)
+        Describe what you expected to happen.
 
-  type: markdown
-  attributes:
-    value: |
-      ## **Actual Behavior** (if applicable)
-      Describe what actually happened.
+  - type: markdown
+    attributes:
+      value: |
+        ## **Actual Behavior** (if applicable)
+        Describe what actually happened.
 
-  type: markdown
-  attributes:
-    value: |
-      ## **Additional Information** (if applicable)
-      Provide any additional details that might be helpful.
+  - type: markdown
+    attributes:
+      value: |
+        ## **Additional Information** (if applicable)
+        Provide any additional details that might be helpful.
 
-      * **Operating System**: [Insert OS]
-      * **Browser**: [Insert browser]
-      * **Version**: [Insert version]
+        * **Operating System**: [Insert OS]
+        * **Browser**: [Insert browser]
+        * **Version**: [Insert version]
 
-  type: input
-  id: contact
-  attributes:
-    label: Contact Details
-    description: How can we get in touch with you if we need more info?
-    placeholder: ex. email@example.com
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
