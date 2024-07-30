@@ -16,16 +16,17 @@ Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether y
    - [🌐 Front-end Development](#-front-end-development)
    - [🔧 Back-end Development](#-back-end-development)
    - [🔄 Version Control](#-version-control)
+   - [💡 AI-Powered Tools](#-ai-powered-tools)
 2. [🎨 Design Tools](#-design-tools)
    - [🖌️ UI/UX Design](#️-uiux-design)
    - [⚡ Rapid Prototyping](#-rapid-prototyping)
+   - [🛠️ Design Assets](#-design-assets)
 3. [🧩 No-Code Tools](#-no-code-tools)
-4. [🤖 AI-Powered Tools](#-ai-powered-tools)
-5. [🔌 APIs and BaaS](#-apis-and-baas)
-6. [📚 Learning Platforms](#-learning-platforms)
-7. [🔧 Miscellaneous](#-miscellaneous)
-8. [🤝 Contribution](#-contribution)
-9. [📄 License](#-license)
+4. [🔌 APIs and BaaS](#-apis-and-baas)
+5. [📚 Learning Platforms](#-learning-platforms)
+6. [🔧 Miscellaneous](#-miscellaneous)
+7. [🤝 Contribution](#-contribution)
+8. [📄 License](#-license)
 
 ## 🖥️ Development Tools
 
@@ -51,6 +52,30 @@ Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether y
 | [GitHub](https://github.com/) | Platform for hosting and collaborating on Git repositories | Issue tracking, pull requests, CI/CD integration |
 | [GitLab](https://gitlab.com/) | Web-based DevOps lifecycle tool | CI/CD, issue tracking, project management |
 
+### 💡 AI-Powered Tools
+
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [GitHub Copilot](https://copilot.github.com/) | AI programmer that helps you write code faster | Code completion, suggestions, context-aware learning |
+| [OpenAI Codex](https://openai.com/) | AI system that translates natural language into code | Code generation, language understanding, multi-language support |
+| [Tabnine](https://www.tabnine.com/) | Code completion tool using AI | Whole-line and full-function completions |
+| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) | AI-driven code suggestion tool | Code suggestions based on machine learning |
+| [Codeium](https://codeium.com/) | AI-powered coding toolkit | Code suggestions and completions |
+| [Phind](https://www.phind.com/) | AI search engine for developers | Enhanced code search capabilities |
+| [Unakin](https://unakin.com/) | AI copilot for game studios | Text-to-gameplay prototyping |
+| [CodeSquire](https://codesquire.io/) | AI assistant for code writing | Code completions and suggestions for data scientists and engineers |
+| [Programminghelper](https://programminghelper.ai/) | AI code generation from text descriptions | Generates code based on descriptions |
+| [Bito](https://bito.ai/) | AI assistant trained on code and documentation | Code suggestions and completions |
+| [SourceAI](https://sourceai.dev/) | AI-powered code generation | Generates code in any programming language |
+| [Google Colab Copilot](https://colab.research.google.com/) | AI coding assistant for Google Colab | Integrated AI support in notebooks |
+| [CodeConvert AI](https://codeconvert.ai/) | Code conversion tool | Simplifies converting code between languages |
+| [AI Code Mentor](https://aicodementor.com/) | Personalized learning with AI | Advanced machine learning algorithms for code mentorship |
+| [BlackBox AI](https://www.blackbox.ai/) | AI assistant for coding | Finds and suggests code snippets |
+| [Regex.ai](https://regex.ai/) | AI-powered regular expression generator | Generates RegEx based on user input |
+| [AutoRegex](https://www.autoregex.com/) | AI tool for creating regular expressions | Simplifies RegEx creation |
+| [Codacy](https://www.codacy.com/) | Code quality tool | Automated code fixes in multiple languages |
+| [AI Code Reviewer](https://aicodereviewer.com/) | AI-powered code review | Provides feedback and improvements for code |
+
 ## 🎨 Design Tools
 
 ### 🖌️ UI/UX Design
@@ -67,6 +92,24 @@ Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether y
 | [InVision](https://www.invisionapp.com/) | Digital product design platform | Prototyping, collaboration, design systems |
 | [Adobe XD](https://www.adobe.com/products/xd.html) | Vector-based tool for designing and prototyping user experiences | Design, prototyping, sharing and collaboration in one place |
 
+### 🛠️ Design Assets
+
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [AI Design Assets](https://items.design/themes/mockups) | Curated design assets for mockups | High-quality mockups for various design needs |
+| [Shots](https://toolfolio.io/blog/platform-for-creating-high-quality-mockups) | Platform for creating high-quality mockups | High-resolution and customizable mockups |
+| [Neat](https://neat.firecms.co/) | 3D gradients for websites | Beautiful 3D gradient generators |
+| [Design Spells](https://www.designspells.com/?tag=easter-egg) | Design assets and inspirations | Various design assets and inspirations |
+| [Tremor](https://www.tremor.so/) | Design and development tool | Helps in building user interfaces |
+| [Free Mockup Generator](https://mockups.pixeltrue.com/) | Generate free mockups | Easy-to-use mockup generator |
+| [LDRS - UI Ball](https://uiball.com/ldrs/) | UI components and assets | Customizable UI components |
+| [Level up your business with 3D](https://www.threedee.design/) | 3D design tools | Tools for enhancing 3D designs |
+| [Cursor Movement Effects](https://codyhouse.co/ds/components/app/cursor-movement-effects) | CSS and JavaScript effects | Enhances user interaction with cursor effects |
+| [Flows Checklists](https://www.checklist.design/flows-checklists) | Checklist design tool | Design checklists for various needs |
+| [magicuidesign/magicui](https://github.com/magicuidesign/magicui) | UI library with animated components | Animated UI components for design engineers |
+| [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | Curated list of Shadcn UI resources | Comprehensive list of UI resources |
+| [cult/ui](https://www.cult-ui.com/) | UI design resources | Tools and resources for UI design |
+
 ## 🧩 No-Code Tools
 
 | Tool | Description | Features |
@@ -74,44 +117,37 @@ Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether y
 | [Webflow](https://webflow.com/) | No-code tool for creating responsive websites | Visual editor, CMS, hosting |
 | [Bubble](https://bubble.io/) | No-code platform for designing, developing, and launching production-ready applications | Full-stack no-code development, AI integration, scalable apps |
 
-## 🤖 AI-Powered Tools
-
-| Tool | Description | Features |
-|-------|-------------|----------|
-| [GitHub Copilot](https://copilot.github.com/) | AI programmer that helps you write code faster | Code completion, suggestions, context-aware learning |
-| [OpenAI Codex](https://openai.com/) | AI system that translates natural language into code | Code generation, language understanding, multi-language support |
-
 ## 🔌 APIs and BaaS
 
 | Tool | Description | Features |
 |-------|-------------|----------|
-| [Firebase](https://firebase.google.com/) | Platform to build and manage mobile and web applications | Realtime database, authentication, hosting |
-| [Supabase](https://supabase.io/) | Open-source alternative to Firebase | Database, authentication, storage, serverless functions |
+| [Firebase](https://
+
+firebase.google.com/) | Platform for building mobile and web applications | Authentication, real-time database, analytics |
+| [Supabase](https://supabase.io/) | Open-source Firebase alternative for building production-ready AI applications | Database, authentication, storage |
+| [Appwrite](https://appwrite.io/) | Open-source backend server for web, mobile, and flutter apps | Authentication, database, storage |
 
 ## 📚 Learning Platforms
 
-| Platform | Description | Features |
-|----------|-------------|----------|
-| [W3Schools](https://www.w3schools.com/) | Web developer information and tutorials | Comprehensive tutorials, examples, quizzes |
-| [freeCodeCamp](https://www.freecodecamp.org/) | Learn to code for free | Interactive lessons, projects, community support |
-| [Coursera](https://www.coursera.org/) | Online courses from top universities and companies | Video lectures, assignments, certificates |
-| [Udemy](https://www.udemy.com/) | Marketplace for online learning | Courses on a wide range of topics, lifetime access, certificates |
-| [Codecademy](https://www.codecademy.com/) | Learn to code interactively | Interactive coding lessons, projects, quizzes |
-| [Khan Academy](https://www.khanacademy.org/) | Free online courses, lessons, and practice | Interactive lessons, practice exercises, personalized learning |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Codecademy](https://www.codecademy.com/) | Interactive coding lessons for various programming languages | Hands-on coding exercises, courses, and certifications |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Learn to code by building projects and earning certifications | Coding challenges, projects, and tutorials |
+| [Coursera](https://www.coursera.org/) | Online courses from top universities and companies | Wide range of courses, specializations, and degrees |
 
 ## 🔧 Miscellaneous
 
-(To be completed with other tools that do not fit into the categories above)
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Zapier](https://zapier.com/) | Connects your apps and automates workflows | Automates tasks between apps, no-code integration |
+| [IFTTT](https://ifttt.com/) | Service that connects different apps and devices | Create custom automation workflows |
 
 ## 🤝 Contribution
 
-We welcome contributions with enthusiasm! If you know of a great tool that should be included in this list, feel free to submit a pull request or open an issue. Together, let's build the ultimate development toolbox! 💪
+Feel free to contribute to this repository! Open a pull request with your suggestions, improvements, or new tools that you think would benefit the community. 
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-⭐ Don't forget to star this repository if you find it useful! ⭐
-
+---i.
