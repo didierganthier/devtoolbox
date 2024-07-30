@@ -8,115 +8,110 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/didierganthier/devtoolbox)
 ![License](https://img.shields.io/github/license/didierganthier/devtoolbox)
 
-Bienvenue sur **DevToolBox**, votre boîte à outils ultime pour le développement ! 🚀 Que vous soyez un développeur front-end chevronné, un as du back-end, ou un passionné de design, cette collection soigneusement organisée d'outils et de ressources essentiels vous aidera à optimiser votre flux de travail et à booster votre productivité.
+Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether you're a seasoned front-end developer, a back-end guru, or a design enthusiast, this carefully curated collection of essential tools and resources will help you optimize your workflow and boost your productivity.
 
-## 📚 Table des matières
+## 📚 Table of Contents
 
-1. [🖥️ Outils de développement](#-outils-de-développement)
-   - [🌐 Développement Front-end](#-développement-front-end)
-   - [🔧 Développement Back-end](#-développement-back-end)
-   - [🔄 Contrôle de version](#-contrôle-de-version)
-2. [🎨 Outils de design](#-outils-de-design)
-   - [🖌️ Design UI/UX](#️-design-uiux)
-   - [⚡ Prototypage rapide](#-prototypage-rapide)
-3. [🧩 Outils No-Code](#-outils-no-code)
-4. [🤖 Outils propulsés par l'IA](#-outils-propulsés-par-lia)
-5. [🔌 APIs et BaaS](#-apis-et-baas)
-6. [🧑‍💻 Plateformes d'apprentissage en ligne](#-plateformes-dapprentissage-en-ligne)
-7. [🔧 Divers](#-divers)
+1. [🖥️ Development Tools](#-development-tools)
+   - [🌐 Front-end Development](#-front-end-development)
+   - [🔧 Back-end Development](#-back-end-development)
+   - [🔄 Version Control](#-version-control)
+2. [🎨 Design Tools](#-design-tools)
+   - [🖌️ UI/UX Design](#️-uiux-design)
+   - [⚡ Rapid Prototyping](#-rapid-prototyping)
+3. [🧩 No-Code Tools](#-no-code-tools)
+4. [🤖 AI-Powered Tools](#-ai-powered-tools)
+5. [🔌 APIs and BaaS](#-apis-and-baas)
+6. [📚 Learning Platforms](#-learning-platforms)
+7. [🔧 Miscellaneous](#-miscellaneous)
 8. [🤝 Contribution](#-contribution)
-9. [📄 Licence](#-licence)
+9. [📄 License](#-license)
 
-## 🖥️ Outils de développement
+## 🖥️ Development Tools
 
-### 🌐 Développement Front-end
+### 🌐 Front-end Development
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [Visual Studio Code](https://code.visualstudio.com/) | Éditeur de code populaire avec une vaste bibliothèque d'extensions | Coloration syntaxique, IntelliSense, débogage, intégration Git |
-| [Tailwind CSS](https://tailwindcss.com/) | Framework CSS utilitaire | Hautement personnalisable, design responsive, rapide à implémenter |
-| [React](https://reactjs.org/) | Bibliothèque JavaScript pour la construction d'interfaces utilisateur | Basé sur les composants, déclaratif, DOM virtuel |
-| [Vue.js](https://vuejs.org/) | Framework JavaScript progressif pour construire des interfaces utilisateur | Approche réactive, adaptable, facile à intégrer |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Visual Studio Code](https://code.visualstudio.com/) | Popular code editor with a vast extension library | Syntax highlighting, IntelliSense, debugging, Git integration |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework | Highly customizable, responsive design, quick to implement |
+| [React](https://reactjs.org/) | JavaScript library for building user interfaces | Component-based, declarative, virtual DOM |
 
-### 🔧 Développement Back-end
+### 🔧 Back-end Development
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [Node.js](https://nodejs.org/) | Runtime JavaScript construit sur le moteur JavaScript V8 de Chrome | E/S non bloquante, architecture événementielle, vaste écosystème |
-| [Django](https://www.djangoproject.com/) | Framework web Python de haut niveau | ORM, authentification, interface d'administration, évolutivité |
-| [Spring Boot](https://spring.io/projects/spring-boot) | Framework Java pour le développement d'applications back-end | Configuration simplifiée, intégration facile avec d'autres outils, support microservices |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Node.js](https://nodejs.org/) | JavaScript runtime built on Chrome's V8 engine | Non-blocking I/O, event-driven architecture, large ecosystem |
+| [Django](https://www.djangoproject.com/) | High-level Python web framework | ORM, authentication, admin interface, scalability |
 
-### 🔄 Contrôle de version
+### 🔄 Version Control
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [GitHub](https://github.com/) | Plateforme pour héberger et collaborer sur des dépôts Git | Suivi des problèmes, pull requests, intégration CI/CD |
-| [GitLab](https://gitlab.com/) | Outil de cycle de vie DevOps basé sur le web | CI/CD, suivi des problèmes, gestion de projet |
-| [Bitbucket](https://bitbucket.org/) | Service web de gestion de projets qui utilise Git et Mercurial | Intégration avec Jira, CI/CD, gestion de branches |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [GitHub](https://github.com/) | Platform for hosting and collaborating on Git repositories | Issue tracking, pull requests, CI/CD integration |
+| [GitLab](https://gitlab.com/) | Web-based DevOps lifecycle tool | CI/CD, issue tracking, project management |
 
-## 🎨 Outils de design
+## 🎨 Design Tools
 
-### 🖌️ Design UI/UX
+### 🖌️ UI/UX Design
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [Figma](https://www.figma.com/) | Outil de design d'interface collaboratif | Collaboration en temps réel, prototypage, systèmes de design |
-| [Sketch](https://www.sketch.com/) | Boîte à outils de design pour créer votre meilleur travail | Édition vectorielle, prototypage, outils de collaboration |
-| [Adobe XD](https://www.adobe.com/products/xd.html) | Outil vectoriel pour la conception et le prototypage d'expériences utilisateur | Conception, prototypage, partage et collaboration en un seul endroit |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Figma](https://www.figma.com/) | Collaborative interface design tool | Real-time collaboration, prototyping, design systems |
+| [Sketch](https://www.sketch.com/) | Design toolkit to create your best work | Vector editing, prototyping, collaboration tools |
 
-### ⚡ Prototypage rapide
+### ⚡ Rapid Prototyping
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [InVision](https://www.invisionapp.com/) | Plateforme de design de produits numériques | Prototypage, collaboration, systèmes de design |
-| [Framer](https://www.framer.com/) | Outil pour la création de prototypes interactifs et animés | Intégration de code, interactions avancées, collaboration en temps réel |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [InVision](https://www.invisionapp.com/) | Digital product design platform | Prototyping, collaboration, design systems |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Vector-based tool for designing and prototyping user experiences | Design, prototyping, sharing and collaboration in one place |
 
-## 🧩 Outils No-Code
+## 🧩 No-Code Tools
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [Webflow](https://webflow.com/) | Outil no-code pour la création de sites web responsive | Éditeur visuel, CMS, hébergement |
-| [Bubble](https://bubble.io/) | Plateforme no-code pour concevoir, développer et lancer des applications de qualité production | Développement no-code full-stack, intégration IA, applications évolutives |
-| [Airtable](https://airtable.com/) | Base de données en ligne no-code avec des fonctionnalités de tableur | Organisation des données, automatisation, intégrations multiples |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Webflow](https://webflow.com/) | No-code tool for creating responsive websites | Visual editor, CMS, hosting |
+| [Bubble](https://bubble.io/) | No-code platform for designing, developing, and launching production-ready applications | Full-stack no-code development, AI integration, scalable apps |
 
-## 🤖 Outils propulsés par l'IA
+## 🤖 AI-Powered Tools
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [GitHub Copilot](https://copilot.github.com/) | Programmeur IA qui vous aide à écrire du code plus rapidement | Complétion de code, suggestions, apprentissage du contexte |
-| [OpenAI Codex](https://openai.com/) | Système IA qui traduit le langage naturel en code | Génération de code, compréhension du langage, prise en charge de plusieurs langages |
-| [TabNine](https://www.tabnine.com/) | Autocomplétion de code propulsée par l'IA | Prise en charge de plusieurs langages, suggestions basées sur le contexte, intégration IDE |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [GitHub Copilot](https://copilot.github.com/) | AI programmer that helps you write code faster | Code completion, suggestions, context-aware learning |
+| [OpenAI Codex](https://openai.com/) | AI system that translates natural language into code | Code generation, language understanding, multi-language support |
 
-## 🔌 APIs et BaaS
+## 🔌 APIs and BaaS
 
-| Outil | Description | Caractéristiques |
-|-------|-------------|------------------|
-| [Firebase](https://firebase.google.com/) | Plateforme pour construire et gérer des applications mobiles et web | Base de données en temps réel, authentification, hébergement |
-| [Supabase](https://supabase.io/) | Alternative open-source à Firebase | Base de données, authentification, stockage, fonctions serverless |
-| [Postman](https://www.postman.com/) | Plateforme pour développer et tester des APIs | Création de collections, tests automatisés, collaboration en équipe |
+| Tool | Description | Features |
+|-------|-------------|----------|
+| [Firebase](https://firebase.google.com/) | Platform to build and manage mobile and web applications | Realtime database, authentication, hosting |
+| [Supabase](https://supabase.io/) | Open-source alternative to Firebase | Database, authentication, storage, serverless functions |
 
-## 🧑‍💻 Plateformes d'apprentissage en ligne
+## 📚 Learning Platforms
 
-| Plateforme | Description | Caractéristiques |
-|------------|-------------|------------------|
-| [W3Schools](https://www.w3schools.com/) | Tutoriels web pour apprendre HTML, CSS, JavaScript et plus | Didacticiels interactifs, quiz, certifications |
-| [freeCodeCamp](https://www.freecodecamp.org/) | Organisation à but non lucratif offrant des cours gratuits de développement web | Projets pratiques, certifications, communauté active |
-| [Coursera](https://www.coursera.org/) | Cours en ligne dispensés par des universités et entreprises prestigieuses | Large variété de sujets, certifications, contenu vidéo |
-| [Udemy](https://www.udemy.com/) | Plateforme de cours en ligne pour apprendre de nouvelles compétences | Large choix de cours, certificats de complétion, accès à vie |
-| [Codecademy](https://www.codecademy.com/) | Plateforme d'apprentissage en ligne pour apprendre à coder | Cours interactifs, parcours de carrière, projets pratiques |
+| Platform | Description | Features |
+|----------|-------------|----------|
+| [W3Schools](https://www.w3schools.com/) | Web developer information and tutorials | Comprehensive tutorials, examples, quizzes |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Learn to code for free | Interactive lessons, projects, community support |
+| [Coursera](https://www.coursera.org/) | Online courses from top universities and companies | Video lectures, assignments, certificates |
+| [Udemy](https://www.udemy.com/) | Marketplace for online learning | Courses on a wide range of topics, lifetime access, certificates |
+| [Codecademy](https://www.codecademy.com/) | Learn to code interactively | Interactive coding lessons, projects, quizzes |
+| [Khan Academy](https://www.khanacademy.org/) | Free online courses, lessons, and practice | Interactive lessons, practice exercises, personalized learning |
 
-## 🔧 Divers
+## 🔧 Miscellaneous
 
-(À compléter avec d'autres outils qui ne rentrent pas dans les catégories ci-dessus)
+(To be completed with other tools that do not fit into the categories above)
 
 ## 🤝 Contribution
 
-Nous accueillons les contributions avec enthousiasme ! Si vous connaissez un excellent outil qui devrait être inclus dans cette liste, n'hésitez pas à soumettre une pull request ou à ouvrir une issue. Ensemble, construisons la boîte à outils de développement ultime ! 💪
+We welcome contributions with enthusiasm! If you know of a great tool that should be included in this list, feel free to submit a pull request or open an issue. Together, let's build the ultimate development toolbox! 💪
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-⭐ N'oubliez pas de mettre une étoile à ce dépôt si vous
+⭐ Don't forget to star this repository if you find it useful! ⭐
+
