@@ -1,0 +1,45 @@
+name: Issue Template
+about: Create an issue template for this repository
+
+title: '[Insert concise title of the issue]'
+
+labels: |
+  - bug
+  - feature request
+  - documentation improvement
+  - other
+
+assignees: ''
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Description**
+        * **Tool Category**: (Select one: Front-end Development, Back-end Development, Version Control, No-Code Tools, AI-Powered Tools, Design Assets, etc.)
+        * **Tool Name**: (Insert name of the tool)
+        * **Issue Type**: (Select one: Bug Report, Feature Request, Documentation Improvement, Other)
+        * **Description**: Please provide a detailed description of the issue, including any relevant context, error messages, or screenshots.
+
+  - type: markdown
+    attributes:
+      value: |
+        **Steps to Reproduce** (if applicable):
+        1. [Insert step 1]
+        2. [Insert step 2]
+        3. [Insert step 3]
+
+  - type: markdown
+    attributes:
+      value: |
+        **Expected Behavior** (if applicable):
+        * What did you expect to happen?
+        * What did happen instead?
+
+  - type: markdown
+    attributes:
+      value: |
+        **Additional Information** (if applicable):
+        * Operating System: [Insert OS]
+        * Browser: [Insert browser]
+        * Version: [Insert version]
