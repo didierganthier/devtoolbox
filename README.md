@@ -1,5 +1,3 @@
-Voici une version mise à jour du texte avec des outils supplémentaires, y compris des plateformes d'apprentissage en ligne :
-
 # DevToolBox 🛠️
 
 ![GitHub stars](https://img.shields.io/github/stars/didierganthier/devtoolbox?style=social)
