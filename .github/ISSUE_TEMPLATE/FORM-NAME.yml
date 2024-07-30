@@ -2,49 +2,79 @@ name: Issue Template
 description: Create an issue template for this repository
 
 body:
-  - type: markdown
+  - type: input
+    id: issue_title
     attributes:
-      value: |
-        ## **Describe the Issue**
+      label: Issue Title
+      description: Provide a brief title for the issue
 
-        Please provide a clear and concise description of the problem.
-
-        * **Tool Category**: (Select one: Front-end Development, Back-end Development, Version Control, No-Code Tools, AI-Powered Tools, Design Assets, etc.)
-        * **Tool Name**: (Insert name of the tool)
-        * **Issue Type**: (Select one: Bug Report, Feature Request, Documentation Improvement, Other)
-        * **Description**: Please provide a detailed description of the issue, including any relevant context, error messages, or screenshots.
-
-  - type: markdown
+  - type: dropdown
+    id: tool_category
     attributes:
-      value: |
-        ## **Steps to Reproduce** (if applicable)
-        Please describe the steps necessary to reproduce the issue.
+      label: Tool Category
+      description: Select the category of the tool
+      options:
+        - Front-end Development
+        - Back-end Development
+        - Version Control
+        - No-Code Tools
+        - AI-Powered Tools
+        - Design Assets
 
-        1. [Insert step 1]
-        2. [Insert step 2]
-        3. [Insert step 3]
-
-  - type: markdown
+  - type: input
+    id: tool_name
     attributes:
-      value: |
-        ## **Expected Behavior** (if applicable)
-        Describe what you expected to happen.
+      label: Tool Name
+      description: Insert the name of the tool
 
-  - type: markdown
+  - type: dropdown
+    id: issue_type
     attributes:
-      value: |
-        ## **Actual Behavior** (if applicable)
-        Describe what actually happened.
+      label: Issue Type
+      description: Select the type of issue
+      options:
+        - Bug Report
+        - Feature Request
+        - Documentation Improvement
+        - Other
 
-  - type: markdown
+  - type: textarea
+    id: description
     attributes:
-      value: |
-        ## **Additional Information** (if applicable)
-        Provide any additional details that might be helpful.
+      label: Description
+      description: Provide a detailed description of the issue, including any relevant context, error messages, or screenshots
 
-        * **Operating System**: [Insert OS]
-        * **Browser**: [Insert browser]
-        * **Version**: [Insert version]
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce (if applicable)
+      description: Describe the steps necessary to reproduce the issue
+      placeholder: |
+        1. Step 1
+        2. Step 2
+        3. Step 3
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior (if applicable)
+      description: Describe what you expected to happen
+
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: Actual Behavior (if applicable)
+      description: Describe what actually happened
+
+  - type: textarea
+    id: additional_information
+    attributes:
+      label: Additional Information (if applicable)
+      description: Provide any additional details that might be helpful
+      placeholder: |
+        - **Operating System**: Insert OS
+        - **Browser**: Insert browser
+        - **Version**: Insert version
 
   - type: input
     id: contact
