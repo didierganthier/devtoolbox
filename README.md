@@ -7,7 +7,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/didierganthier/devtoolbox)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/didierganthier/devtoolbox)
 ![License](https://img.shields.io/github/license/didierganthier/devtoolbox)
-[![Talk to repo](https://img.shields.io/badge/Talk_to_repo-%F0%9F%93%9A%20Chat%20%F0%9F%92%9A-blue?logo=discord&logoColor=white)](https://hf.co/chat/assistant/66a8811bb9ef6d5e5b2a78a0)
+[![Talk to repo](https://img.shields.io/badge/Talk_to_repo-%E2%9C%94%20Open%20Chat-brightgreen?style=for-the-badge&logo=HuggingFace&logoColor=white)](https://hf.co/chat/assistant/66a8811bb9ef6d5e5b2a78a0)
 
 
 
