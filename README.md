@@ -115,6 +115,7 @@ Welcome to **DevToolBox**, your ultimate toolbox for development! 🚀 Whether y
 | [magicuidesign/magicui](https://github.com/magicuidesign/magicui) | UI library with animated components | Animated UI components for design engineers |
 | [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | Curated list of Shadcn UI resources | Comprehensive list of UI resources |
 | [cult/ui](https://www.cult-ui.com/) | UI design resources | Tools and resources for UI design |
+| [tailwindgenerator](https://tailwind-generator.com/generators?ref=dailydev) | Tailwind Generator | UI design resources | Tools and resources for UI design |
 
 ## 🧩 No-Code Tools
 
